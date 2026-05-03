@@ -24,7 +24,7 @@ Full methodology available in the white paper → [Analysis — European Luxury 
 4. Run all cells
 
 ## Example analysis
-Applied to the European luxury sector (LVMH, Hermès, Kering, Richemont, Burberry, Moncler) → [Full analysis](XXX)
+Applied to the European luxury sector (LVMH, Hermès, Kering, Richemont, Burberry, Moncler) → https://open.substack.com/pub/thesustainableanalyst/p/le-secteur-du-luxe-europeen-face?r=a7sex&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
 
 ## Note
 Code comments are currently in French — English version coming soon.
