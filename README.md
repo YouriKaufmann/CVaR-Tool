@@ -9,7 +9,7 @@ A financial stress test tool simulating the impact of carbon price scenarios on 
 - Ranks companies by climate transition risk exposure within a peer group
 
 ## Methodology
-Full methodology available in the white paper → [Analysis — European Luxury Sector](XXX)
+Full methodology available in the white paper → Published Soon
 
 ## Data sources
 - GHG emissions: company sustainability reports & CDP
