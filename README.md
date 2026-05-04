@@ -27,7 +27,7 @@ Full methodology available in the white paper → Published Soon
 Applied to the European luxury sector (LVMH, Hermès, Kering, Richemont, Burberry, Moncler) → https://open.substack.com/pub/thesustainableanalyst/p/le-secteur-du-luxe-europeen-face?r=a7sex&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
 
 ## Note
-Code comments are in English.
+One version is in english and one is in french.
 
 ## Disclaimer
 This tool is built for screening purposes only. It does not constitute financial advice.
