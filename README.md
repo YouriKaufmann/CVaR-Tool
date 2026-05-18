@@ -37,12 +37,18 @@ https://thesustainableanalyst.substack.com/p/climate-cvar-methodology-of-a-finan
 
 ## How to use
 
-1. Open the notebook in Google Colab
-2. Fill in your company data in the Excel input file (`Companies` sheet):
-   - Non-financial: `Name`, `Ticker`, `Currency`, `Scope_1_2`, `Scope_3`, `%_of_Green_Revenue`, `Pass_Through`, `Scope_3_SBTi_Current`, `Scope_3_SBTi_Baseline`, `Carbon_Reduction_Plan_Scope_3`, `SBTi_Target_Year`
-   - Financial (in millions, native currency): `Market_Cap`, `Total_Debt`, `Beta`, `Interest_Expense`, `EBITDA`, `Total_Revenue`
-3. Fill in FX rates in the `Currencies` sheet
-4. Fill in NGFS carbon price anchor points (2025, 2030, 2035) in the `Carbon_Prices` sheet
+1. Download `CVaR_Tool_Template.xlsx` from the root of this repository
+2. Fill in your data across the three sheets:
+
+   **`Companies` sheet** — one row per company (financial data in millions, native currency):
+   `Name`, `Ticker`, `Currency`, `Market_Cap`, `Total_Debt`, `Beta`, `Interest_Expense`, `EBITDA`, `Total_Revenue`, `Scope_1_2`, `Scope_3`, `%_of_Green_Revenue`, `Pass_Through`, `Scope_3_SBTi_Current`, `Scope_3_SBTi_Baseline`, `Carbon_Reduction_Plan_Scope_3`, `SBTi_Target_Year`
+
+   **`Currencies` sheet** — one row per currency used, EUR/local conversion rates
+
+   **`Carbon_Prices` sheet** — NGFS anchor points for 2025, 2030, 2035 across three scenarios: `Current_Policies`, `Delayed_Transition`, `Net_Zero_2050`
+
+3. Open `V2_EN_Climate_Stress_Test.ipynb` in Google Colab
+4. Update the Excel file path at the top of the first cell to point to your file on Google Drive
 5. Set `ACTIVE_SCENARIO` and run all cells
 
 ## Example analyses
