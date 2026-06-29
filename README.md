@@ -57,11 +57,15 @@ https://thesustainableanalyst.substack.com/p/climate-cvar-methodology-of-a-finan
 
 ## Example analyses
 
-**European Luxury Sector** — LVMH, Hermès, Kering, Richemont, Burberry, Moncler (using the V1 of the tool, to be updated soon)
+**European Luxury Sector** — LVMH, Hermès, Kering, Richemont, Burberry, Moncler (using the V1 of the tool)
 - [English version](https://thesustainableanalyst.substack.com/p/the-european-luxury-sector-facing?r=a7sex)
 - [French version](https://thesustainableanalyst.substack.com/p/le-secteur-du-luxe-europeen-face?r=a7sex)
 
-**Global Sportswear Sector** — Nike, Adidas, Puma, Lululemon, On Running, Under Armour (Using the V3 of the tool) - coming soon
+**Global Sportswear Sector** — Nike, Adidas, Puma, Lululemon, On Running, Under Armour (Using the V3 of the tool) - 
+- [English version](https://thesustainableanalyst.substack.com/p/the-sportswear-sector?r=a7sex)
+
+**Pharmaceutical Sector** - Novonordisk, Roche, Astrazeneca, Sanofi, Merck, GSK, Eli Lilly
+- [English version](https://thesustainableanalyst.substack.com/p/the-pharmaceutical-sector?r=a7sex)
 
 ## Disclaimer
 
